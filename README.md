@@ -25,7 +25,7 @@ QuestForge/
 ├── frontend/ # React + Vite app
 ├── backend/ # Express + MongoDB API
 ├── .gitignore
-└── README.md # you are here
+└── README.md 
 
 ## 🚀 Quickstart (local development)
 
@@ -77,5 +77,5 @@ All rewards (XP, Gold, attributes, level, item prices) are calculated and enforc
 
 ## 🌐 Live Deployment
 
-- Frontend: `<your Vercel URL>`
-- Backend: `<your Render URL>`
+- Frontend: https://evoquestgamifiedproductivitypersona.vercel.app/
+- Backend: https://hackathon-evoquest.onrender.com/
